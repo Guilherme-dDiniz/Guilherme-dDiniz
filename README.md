@@ -72,13 +72,13 @@ Atualmente, estou me dedicando ao aprimoramento contínuo das minhas habilidades
 
 ## 🌱 Projetos em destaque
 
-- 🔗 [Perfil de Links Sociais](https://guilherme-ddiniz.github.io/social-links-profile-main/)  
+- 🔗 [Mestre da Seção de Prova Social](https://guilherme-ddiniz.github.io/social-proof-section-master/)  
   Projeto focado em responsividade e boas práticas de HTML e CSS.
 
-- 🔗 [Cartão QR Code](https://guilherme-ddiniz.github.io/qr-code-main/)  
-  Desafio onde exercitei o uso de flexbox e aprimoramento de código limpo e organizado.
+- 🔗 [Seção de Nota de Depoimento](https://guilherme-ddiniz.github.io/solucao-depoimentos-grade-se-o-principal/)  
+  Desafio onde exercitei o uso de flexbox e CSS Grid e aprimoramento de código limpo e organizado.
 
-- 🔗 [Receita Responsiva](#)  
+- 🔗 [Componente de cartão de visualização de estatísticas](https://guilherme-ddiniz.github.io/stats-preview-card-component-main/)  
   Projeto onde pratiquei CSS Grid e sobreposição de elementos para melhorar a experiência em telas menores.
 
 ---
