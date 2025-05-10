@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <strong>Desenvolvedor Front-End em formação | Apaixonado por código limpo e interfaces responsivas</strong>
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Gif" />
 </p>
 
