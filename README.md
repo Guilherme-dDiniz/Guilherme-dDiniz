@@ -97,7 +97,7 @@ Atualmente, estou me dedicando ao aprimoramento contínuo das minhas habilidades
 
 - GitHub: [Guilherme-dDiniz](https://github.com/Guilherme-dDiniz)
 - Frontend Mentor: [@Guilherme-dDiniz](https://www.frontendmentor.io/profile/Guilherme-dDiniz)
-- Linkedln: [Guilherme Diniz](www.linkedin.com/in/guilherme-diniz-502247365)
+- Linkedln: [Guilherme Diniz](https://www.linkedin.com/in/guilherme-diniz-dev-web/)
 
 ---
 
